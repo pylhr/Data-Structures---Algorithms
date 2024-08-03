@@ -28,3 +28,5 @@ Complexities ordered from smallest to largest
 | Exponential Time  | O(b^n), b > 1 |
 | Factorial Time    | O(n!)         |
 
+#### Properties of Big-O
+
