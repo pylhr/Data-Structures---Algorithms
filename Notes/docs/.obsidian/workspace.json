@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "463d16ef40d85c79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0fc91bbad7d0c923",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Data Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Data Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Data Structure.md"
               }
             }
           }
@@ -147,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f658dc765cdcbfc",
+  "active": "463d16ef40d85c79",
   "lastOpenFiles": [
+    "index.md",
+    "Data Structure.md",
     "Welcome.md"
   ]
 }
