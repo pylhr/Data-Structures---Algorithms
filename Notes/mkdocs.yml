@@ -2,3 +2,8 @@ site_name: Data Structures & Algorithm
 
 theme:
   name: material
+
+nav:
+  - Introduction : index.md
+  - Data Structure : Data Structure.md
+  - Computational Complexity Analysis : Computational Complexity Analysis.md
