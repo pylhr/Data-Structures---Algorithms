@@ -14,7 +14,8 @@
 
 - Big-O notation gives an upper bound of the complexity in the worst case, helping to quantify performance as the input size becomes arbitrarily large.
 - The size of input is represented by 'n'.
-- #### Complexities ordered from smallest to largest
+
+Complexities ordered from smallest to largest
 
 | Complexity        | Notation      |
 | ----------------- | ------------- |
@@ -26,3 +27,4 @@
 | Cubic Time        | O(n^3)        |
 | Exponential Time  | O(b^n), b > 1 |
 | Factorial Time    | O(n!)         |
+
