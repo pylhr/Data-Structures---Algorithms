@@ -1,4 +1,4 @@
-# Data Structures & Algorithms
+# Introduction
 
 ## What is Data Structures?
 
