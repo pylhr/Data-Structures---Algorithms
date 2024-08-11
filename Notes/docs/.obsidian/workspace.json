@@ -6,6 +6,7 @@
       {
         "id": "73a7eeeec0afdfe5",
         "type": "tabs",
+        "dimension": 64.55108359133128,
         "children": [
           {
             "id": "008719fcb36626ae",
@@ -13,11 +14,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Computational Complexity Analysis.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "c965fbb528ab9740"
+          }
+        ]
+      },
+      {
+        "id": "32b6af533cadf212",
+        "type": "tabs",
+        "dimension": 35.44891640866873,
+        "children": [
+          {
+            "id": "89e982169825da29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computational Complexity Analysis.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "c965fbb528ab9740"
           }
         ]
       }
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Computational Complexity Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Computational Complexity Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Computational Complexity Analysis.md"
               }
             }
           }
@@ -148,10 +170,10 @@
   },
   "active": "008719fcb36626ae",
   "lastOpenFiles": [
-    "Computational Complexity Analysis.md",
-    "Data Structure/Data Structure.md",
     "Data Structure.md",
     "index.md",
+    "Computational Complexity Analysis.md",
+    "Data Structure/Data Structure.md",
     "Data Structure/Computational Complexity Analysis.md",
     "Data Structure",
     "Welcome.md"
