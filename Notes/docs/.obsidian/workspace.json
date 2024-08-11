@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computational Complexity Analysis.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0fc91bbad7d0c923",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational Complexity Analysis.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computational Complexity Analysis.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computational Complexity Analysis.md"
+                "file": "index.md"
               }
             }
           }
@@ -149,9 +148,12 @@
   },
   "active": "008719fcb36626ae",
   "lastOpenFiles": [
-    "index.md",
-    "Data Structure.md",
     "Computational Complexity Analysis.md",
+    "Data Structure/Data Structure.md",
+    "Data Structure.md",
+    "index.md",
+    "Data Structure/Computational Complexity Analysis.md",
+    "Data Structure",
     "Welcome.md"
   ]
 }
