@@ -45,3 +45,7 @@ Complexities ordered from smallest to largest
 	- Finding all permutations of a string - O(n!)
 	- Sorting using mergesort - O(nlog(n))
 	- Iterating over all the cells in a matrix of size n by m - O(nm)
+
+
+### Static and Dynamic Arrays
+- 
