@@ -6,7 +6,7 @@
       {
         "id": "73a7eeeec0afdfe5",
         "type": "tabs",
-        "dimension": 64.55108359133128,
+        "dimension": 61.06811145510835,
         "children": [
           {
             "id": "008719fcb36626ae",
@@ -26,7 +26,7 @@
       {
         "id": "32b6af533cadf212",
         "type": "tabs",
-        "dimension": 35.44891640866873,
+        "dimension": 38.93188854489164,
         "children": [
           {
             "id": "89e982169825da29",
@@ -168,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "008719fcb36626ae",
+  "active": "89e982169825da29",
   "lastOpenFiles": [
     "Data Structure.md",
     "index.md",

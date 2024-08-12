@@ -30,5 +30,18 @@ Complexities ordered from smallest to largest
 
 #### Properties of Big-O
 
+- Big O really cares about when the input is reaching almost infinity, so in a expression input size with highest order of degree will be considered, as only it will be having substantial impact on the running time of the algorithm.
 
+1. O(n + c) = O(n)
+2. O(nc) = O(n), c> 0
 
+- Let f be a function, describing running time of a particular algorithm and input size be n:
+  f(n) = 7log(n^3) + 15(n^2) + 2(n ^ 3) + 8
+  Therefore, O(f(n)) = O(n^3)
+
+- Examples of Big O time complexities :
+	- Binary Search - O(log(n))
+	- Finding all subsets of a set - O(n^2)
+	- Finding all permutations of a string - O(n!)
+	- Sorting using mergesort - O(nlog(n))
+	- Iterating over all the cells in a matrix of size n by m - O(nm)
