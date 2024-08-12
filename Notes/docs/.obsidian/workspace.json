@@ -20,8 +20,21 @@
               }
             },
             "group": "c965fbb528ab9740"
+          },
+          {
+            "id": "798adee6bd1eee1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Static and Dynamic Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "32b6af533cadf212",
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational Complexity Analysis.md",
+                "file": "Static and Dynamic Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computational Complexity Analysis.md",
+                "file": "Static and Dynamic Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computational Complexity Analysis.md"
+                "file": "Static and Dynamic Arrays.md"
               }
             }
           }
@@ -168,11 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89e982169825da29",
+  "active": "798adee6bd1eee1a",
   "lastOpenFiles": [
+    "Computational Complexity Analysis.md",
+    "Static and Dynamic Arrays.md",
     "Data Structure.md",
     "index.md",
-    "Computational Complexity Analysis.md",
     "Data Structure/Data Structure.md",
     "Data Structure/Computational Complexity Analysis.md",
     "Data Structure",

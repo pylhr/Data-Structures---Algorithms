@@ -47,5 +47,4 @@ Complexities ordered from smallest to largest
 	- Iterating over all the cells in a matrix of size n by m - O(nm)
 
 
-### Static and Dynamic Arrays
-- 
+ 
