@@ -35,7 +35,7 @@ Complexities ordered from smallest to largest
 1. O(n + c) = O(n)
 2. O(nc) = O(n), c> 0
 
-- Let f be a function, describing running time of a particular algorithm and input size be n:
+- Let f be a function, describing running time of a particular algorithm and input size be n: 
   f(n) = 7log(n^3) + 15(n^2) + 2(n ^ 3) + 8
   Therefore, O(f(n)) = O(n^3)
 

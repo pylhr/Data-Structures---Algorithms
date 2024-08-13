@@ -6,7 +6,7 @@
       {
         "id": "73a7eeeec0afdfe5",
         "type": "tabs",
-        "dimension": 61.06811145510835,
+        "dimension": 61.06811145510836,
         "children": [
           {
             "id": "008719fcb36626ae",
@@ -14,27 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computational Complexity Analysis.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "c965fbb528ab9740"
-          },
-          {
-            "id": "798adee6bd1eee1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Static and Dynamic Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "32b6af533cadf212",
@@ -47,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computational Complexity Analysis.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Static and Dynamic Arrays.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Static and Dynamic Arrays.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Static and Dynamic Arrays.md"
+                "file": "index.md"
               }
             }
           }
@@ -181,12 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "798adee6bd1eee1a",
+  "active": "008719fcb36626ae",
   "lastOpenFiles": [
     "Computational Complexity Analysis.md",
+    "().md",
+    "index.md",
     "Static and Dynamic Arrays.md",
     "Data Structure.md",
-    "index.md",
     "Data Structure/Data Structure.md",
     "Data Structure/Computational Complexity Analysis.md",
     "Data Structure",
